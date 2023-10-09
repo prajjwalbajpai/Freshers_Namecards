@@ -154,7 +154,7 @@ const CONTRIBUTERS = [
     {
         handle_name: 'prajjwalbajpai',
         name: "Prajjwal Bajpai",
-        description: "Hello everyone, I'm Prajjwal from Meta Part 1",
+        description: "Hello everyone, I am Prajjwal from Meta Part 1",
         github: "https://github.com/prajjwalbajpai",
     },
 
